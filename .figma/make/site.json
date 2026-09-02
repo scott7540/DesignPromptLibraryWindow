@@ -1,0 +1,10 @@
+{
+  "description": "Organize, edit, and manage code snippets with a clean, hierarchical interface featuring folder trees, markdown editing, and quick pinning for developers.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
